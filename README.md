@@ -15,15 +15,15 @@ Esse projeto desafio abranje os seguintes tópicos:
 
 Ação da API do GitHub usada para listar repositórios para a organização especificada:
 
-´´´´´
+```
 |GET| /orgs/{org}/repos
-´´´´´
+```
 
 Link da API pública takeblip-chatbot-githubapi:
 
-´´´´´
+```
 https://takeblip-chatbot-githubapi.herokuapp.com/api/TakeBlip
-´´´´´
+```
 
 
 
