@@ -10,7 +10,7 @@ Esse projeto desafio abranje os seguintes tópicos:
 * Criação de modelo de dados e ViewModel;
 * Criação de classes de ação, abstração e contrato (Controllers, Interfaces, Services e Repositórios);
 * Integração do repositório com a API pública do GitHub;
-* Criação de serviço para realizar a filtragem e ordenação da lista de repositórios de retorno (json) requerida pelo desafio com as informações de id, nome, descrição, data de criaçã e linguagem de cada repositório;
+* Criação de serviço para realizar a filtragem e ordenação da lista de repositórios de retorno (json) requerida pelo desafio com as informações de id, nome, descrição, data de criação e linguagem de cada repositório;
 * Implantação da API pública na nuvem através do Heroku.
 
 Ação da API do GitHub usada para listar repositórios para a organização especificada:
