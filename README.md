@@ -1,7 +1,7 @@
 # take-blip-desafio-tecnico-GitHubAPI-chatbot
 <h2>Repositório destinado ao desafio de consumir uma API do GitHub para recuperar informações dos repositórios da Take Blip para criação de chatbot.</h2>
 
-Neste projeto foi desenvolvida uma API em ASP.NET Core que busca por meio da API do GitHub **os 5 repositórios de linguagem C# mais antigos da Take Blip,
+Neste projeto foi desenvolvida uma API Rest em ASP.NET Core que busca por meio da API do GitHub **os 5 repositórios de linguagem C# mais antigos da Take Blip,
 ordenados de forma crescente por data de criação**.
 
 Esse projeto desafio abranje os seguintes tópicos:
