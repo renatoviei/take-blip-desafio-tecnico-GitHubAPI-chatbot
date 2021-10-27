@@ -16,10 +16,10 @@ Esse projeto desafio abranje os seguintes tópicos:
 Ação da API do GitHub usada para listar repositórios para a organização especificada:
 
 ```
-|GET| /orgs/{org}/repos
+|GET| https://api.github.com/orgs/takenet/repos
 ```
 
-Link da API pública takeblip-chatbot-githubapi:
+Link da API pública takeblip-chatbot-githubapi criada no desafio:
 
 ```
 https://takeblip-chatbot-githubapi.herokuapp.com/api/TakeBlip
